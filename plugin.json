@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "author": "vBook",
+    "author": "darkninjavn",
     "description": ""
   },
   "data": [
     {
       "name": "Sáng Tác Việt",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/sangtacviet/plugin.zip",
       "version": 8,
       "source": "https://sangtacviet.app",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Bạch Ngọc Sách",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/bachngocsach/plugin.zip",
       "version": 13,
       "source": "https://bnsach.com/reader",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Truyện Full",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenfull/plugin.zip",
       "version": 10,
       "source": "https://truyenfull.vision",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Truyện Chữ",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenchu/plugin.zip",
       "version": 6,
       "source": "https://metruyenchu.vn",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Truyện TR",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyentr/plugin.zip",
       "version": 6,
       "source": "https://truyenazz.vn/",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Tàng Thư Viện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/tangthuvien/plugin.zip",
       "version": 11,
       "source": "https://tangthuvien.net",
@@ -84,7 +84,7 @@
     },
     {
       "name": "Truyện YY",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenyy/plugin.zip",
       "version": 15,
       "source": "https://truyenyy.xyz",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Wiki Dịch",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/wikidich/plugin.zip",
       "version": 22,
       "source": "https://truyenwikidich.net",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Wikidich App",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/wikidich-app/plugin.zip",
       "version": 3,
       "source": "https://truyenwikidich.com",
@@ -117,7 +117,7 @@
     },
     {
       "name": "Koanchay",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/koanchay/plugin.zip",
       "version": 12,
       "source": "https://koanchay.net",
@@ -129,7 +129,7 @@
     },
     {
       "name": "SS Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/sstruyen/plugin.zip",
       "version": 6,
       "source": "https://sstruyen.vn",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Truyện QQ",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenqq/plugin.zip",
       "version": 21,
       "type": "comic",
@@ -151,7 +151,7 @@
     },
     {
       "name": "Truyện VN",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenvn/plugin.zip",
       "version": 48,
       "type": "comic",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Wattpad",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/wattpad/plugin.zip",
       "version": 3,
       "source": "https://www.wattpad.com",
@@ -172,7 +172,7 @@
     },
     {
       "name": "D Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/webtruyen/plugin.zip",
       "version": 6,
       "source": "https://dtruyen.net",
@@ -183,7 +183,7 @@
     },
     {
       "name": "nHentai",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/nhentai/plugin.zip",
       "version": 4,
       "type": "comic",
@@ -195,7 +195,7 @@
     },
     {
       "name": "Hako Novel",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/hako/plugin.zip",
       "version": 11,
       "source": "https://ln.hako.re",
@@ -206,7 +206,7 @@
     },
     {
       "name": "Thích Đọc Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/thichdoctruyen/plugin.zip",
       "version": 7,
       "source": "https://thichdoctruyen.xyz",
@@ -217,7 +217,7 @@
     },
     {
       "name": "Sàn Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/santruyen/plugin.zip",
       "version": 2,
       "source": "https://santruyen.com",
@@ -228,7 +228,7 @@
     },
     {
       "name": "Blog Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/blogtruyen/plugin.zip",
       "version": 7,
       "type": "comic",
@@ -239,7 +239,7 @@
     },
     {
       "name": "TruyệnHD",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenhd/plugin.zip",
       "version": 14,
       "source": "https://truyenhdt.com",
@@ -251,7 +251,7 @@
     },
     {
       "name": "Gác Sách",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/gacsach/plugin.zip",
       "version": 7,
       "source": "https://gacsach.online",
@@ -262,7 +262,7 @@
     },
     {
       "name": "MTC",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/metruyenchu/plugin.zip",
       "version": 39,
       "source": "https://metruyencv.com",
@@ -273,7 +273,7 @@
     },
     {
       "name": "vTruyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/vtruyen/plugin.zip",
       "version": 10,
       "source": "https://vtruyen.com",
@@ -284,7 +284,7 @@
     },
     {
       "name": "HentaiVN",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/hentaivn/plugin.zip",
       "version": 28,
       "type": "comic",
@@ -296,7 +296,7 @@
     },
     {
       "name": "iSach",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/isach/plugin.zip",
       "version": 2,
       "source": "https://isach.info",
@@ -307,7 +307,7 @@
     },
     {
       "name": "QManga",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/qmanga/plugin.zip",
       "version": 9,
       "type": "comic",
@@ -318,7 +318,7 @@
     },
     {
       "name": "U Mê Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/umetruyen/plugin.zip",
       "version": 10,
       "source": "https://umetruyenhay.com",
@@ -341,7 +341,7 @@
     },
     {
       "name": "Luvevaland",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/lustaveland/plugin.zip",
       "version": 4,
       "source": "https://luvevaland.co",
@@ -352,7 +352,7 @@
     },
     {
       "name": "TruyenHayVN",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyenhayvn/plugin.zip",
       "version": 3,
       "source": "https://truyenhay.com",
@@ -363,7 +363,7 @@
     },
     {
       "name": "LightNovel Reader",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/lightnovelreader/plugin.zip",
       "version": 4,
       "source": "https://readlightnovel.app",
@@ -374,7 +374,7 @@
     },
     {
       "name": "ReadManga.Org",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/readmanga/plugin.zip",
       "version": 1,
       "source": "https://readmanga.org",
@@ -385,7 +385,7 @@
     },
     {
       "name": "E Hentai",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/e-hentai/plugin.zip",
       "version": 2,
       "source": "https://e-hentai.org",
@@ -396,7 +396,7 @@
     },
     {
       "name": "Hentai Image",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/hentai-img/plugin.zip",
       "version": 1,
       "source": "https://hentai-img.com",
@@ -407,7 +407,7 @@
     },
     {
       "name": "Cứu Truyện",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/cuutruyen/plugin.zip",
       "version": 4,
       "source": "https://nettrom.com",
@@ -418,7 +418,7 @@
     },
     {
       "name": "TruyệnCV",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/truyencv/plugin.zip",
       "version": 1,
       "source": "https://metruyencv.com",
@@ -429,7 +429,7 @@
     },
     {
       "name": "Bàn Long",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/banlong/plugin.zip",
       "version": 5,
       "source": "https://banlong.live",
@@ -440,7 +440,7 @@
     },
     {
       "name": "MangaDex",
-      "author": "vBook",
+      "author": "darkninjavn",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/mangadex/plugin.zip",
       "version": 1,
       "source": "https://mangadex.org",
