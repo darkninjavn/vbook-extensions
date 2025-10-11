@@ -11,7 +11,7 @@
       "version": 8,
       "source": "https://sangtacviet.app",
       "icon": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/sangtacviet/icon.png",
-      "description": "Đọc truyện trên sangtacviet.app - extension cập nhật.",
+      "description": "Đọc truyện trên sangtacviet.app",
       "type": "novel",
       "locale": "vi_VN"
     },
