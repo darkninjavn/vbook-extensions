@@ -13,7 +13,7 @@
       "icon": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/sangtacviet/icon.png",
       "description": "Đọc truyện trên sangtacviet.app - extension cập nhật.",
       "type": "novel",
-      "locale": "vi_VN",
+      "locale": "vi_VN"
     },
     {
       "name": "Bạch Ngọc Sách",
