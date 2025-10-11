@@ -16,6 +16,18 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Say Hentai",
+      "author": "darkninjavn",
+      "path": "https://raw.githubusercontent.com/darkninjavn/vbook-ext/master/sayhentai/plugin.zip",
+      "version": 5,
+      "source": "https://sayhentaii.art",
+      "icon": "https://raw.githubusercontent.com/darkninjavn/vbook-ext/master/sayhentai/icon.png",
+      "description": "Đọc truyện trên trang sayhentaii.art",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "Bạch Ngọc Sách",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/darkninjavn/vbook-extensions/master/bachngocsach/plugin.zip",
