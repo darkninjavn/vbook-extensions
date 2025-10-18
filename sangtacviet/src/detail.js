@@ -21,7 +21,7 @@ function execute(url) {
             description: des,
             detail: _detail,
             ongoing: true,
-            host: "https://sangtacviet.app"
+            host: "https://sangtacviet.pro"
         });
     }
     return null;
